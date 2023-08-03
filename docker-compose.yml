@@ -12,6 +12,8 @@ services:
       - 5433:5433
     expose:
       - 5433
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
   pythonapp:
     build: ./python
     restart: unless-stopped
