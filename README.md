@@ -5,7 +5,7 @@
 
 ## O que é o projeto original do CNPJ MySQL?
 
-São script's em python para carregar os arquivos de cnpj dos dados públicos da Receita Federal em MYSQL e POSTGRESQL. 
+O projeto consiste basicamente de script's em python para carregar os arquivos de cnpj dos dados públicos da Receita Federal em MYSQL e POSTGRESQL. 
 O código é compatível com o layout das tabelas disponibilizadas pela Receita Federal a partir de 2021.
 
 ## O que foi alterado em relação ao original?
