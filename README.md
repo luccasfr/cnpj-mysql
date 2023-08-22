@@ -1,8 +1,14 @@
+# CNPJ MySQL
+
+[![Docker](https://img.shields.io/badge/docker-version-blue)](https://docker.com)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 # Iniciando os containers
-docker compose up -d
+```docker compose up -d```
 
 ## Baixando os arquivos
-docker compose exec pythonapp python dados_cnpj_baixa.py
+```docker compose exec pythonapp python dados_cnpj_baixa.py```
 
 ## Incluindo no banco de dados
-docker compose exec pythonapp python dados_cnpj_postgres.py
+```docker compose exec pythonapp python dados_cnpj_postgres.py```
