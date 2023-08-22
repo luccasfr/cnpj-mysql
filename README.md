@@ -1,6 +1,5 @@
 # CNPJ MySQL
 
-[![Docker](https://img.shields.io/badge/docker-version-blue)](https://docker.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
